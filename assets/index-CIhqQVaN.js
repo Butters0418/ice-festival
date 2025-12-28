@@ -957,7 +957,7 @@ Error generating stack: `+o.message+`
   ${{"@media (min-width: 768px)":{height:"440px",width:"440px"}}}
   ${{"@media (min-width: 1280px)":{height:"auto",width:"auto"}}}
 `,J_=T.div`
-  ${{zIndex:"0",display:"flex",flexShrink:"0",flexDirection:"row",alignItems:"flex-start",justifyContent:"flex-start",overflow:"hidden",borderRadius:"9999px",backgroundPosition:"center",backgroundRepeat:"no-repeat",padding:"30px"}}
+  ${{zIndex:"0",display:"flex",height:"306px",width:"306px",flexShrink:"0",flexDirection:"row",alignItems:"flex-start",justifyContent:"flex-start",overflow:"hidden",borderRadius:"9999px",backgroundPosition:"center",backgroundRepeat:"no-repeat",padding:"30px"}}
   ${{"@media (min-width: 768px)":{height:"440px",width:"440px",padding:"60px"}}}
   ${{"@media (min-width: 1280px)":{height:"540px",width:"540px"}}}
   img {
