@@ -117,7 +117,7 @@ function Section9() {
                           <STopBox
                             order={index}
                             style={{
-                              backgroundImage: `url(${section9BefreePdTopboxBgYellow})`,
+                              backgroundImage: `url(/befree_pd_topbox_bg_yellow.svg)`,
                             }}
                           >
                             <SPdImg order={index}>
@@ -132,7 +132,7 @@ function Section9() {
                             <SPdTitle
                               order={index}
                               style={{
-                                backgroundImage: `url(${section9BefreePdTitBg})`,
+                                backgroundImage: `url(/befree_pd_tit_bg.svg)`,
                               }}
                             >
                               <span className="flex h-full w-full items-center overflow-hidden leading-[140%]">
